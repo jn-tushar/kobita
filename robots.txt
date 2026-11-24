@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jn-tushar.github.io/kobita/sitemap.xml
